@@ -4,7 +4,7 @@
 # @Author  : LiuZhi
 # @Site    : 
 # @File    : hello.py
-# @Software: PyCharm Community Edition  test .gitattributes
+# @Software: PyCharm Community Edition  test .gitattributes  1111
 class Hello(object):
     def hello(self, name='world'):
         print('hello, %s.' % name)
